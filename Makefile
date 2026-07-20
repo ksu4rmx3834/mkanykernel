@@ -1,4 +1,4 @@
-O := UPDATE-AnyKernel3.zip
+O := ../out/android12-5.4/dist/UPDATE-AnyKernel3.zip
 IMAGE := ../out/android12-5.4/dist/Image
 
 all: $(O)
